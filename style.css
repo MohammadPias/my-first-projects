@@ -2,3 +2,8 @@ p{
     color: red;
     background-color: black;
 }
+h2{
+    color: aqua;
+    width: 700px;
+    font-size: large;
+}
