@@ -8,5 +8,7 @@ h2{
     font-size: large;
 }
 img{
+    width:400px;
     margin: 30px auto;
+    display: block;
 }
